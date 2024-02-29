@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CustomerInteractions",
+    "\\CustomerInteractions\\InteractionStream",
+    "\\CustomerInteractions\\OpenAIService",
+    "\\CustomerInteractions\\RestAPI"
   ],
-  "SelectedNode": "\\C:\\Users\\Saphalya.Mohanty\\Source\\Repos\\Sapgithub",
+  "SelectedNode": "\\CustomerInteractions\\InteractionStream\\InteractionStream.sln",
   "PreviewInSolutionExplorer": false
 }

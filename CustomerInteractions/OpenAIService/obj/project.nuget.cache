@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iJS+t0ote6PMNcQOAi5GIbRR7Xbm+1HxXLcvw1mrjbJVR8eZwCpKuDG6jrGuLM19vfBziaYapduW4e86SpBNHw==",
+  "dgSpecHash": "qbE5aFLVm3pw8hvdCo5M/NSpxh/mxmt8a8U9m6xYEPD4XbaChA+wZbBMnld9QxQo0pSKR7pfWqhq1+CZ5kqvNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Saphalya.Mohanty\\Source\\Repos\\Sapgithub\\CustomerInteractions\\OpenAIService\\OpenAIService.csproj",
+  "projectFilePath": "C:\\Users\\Saphalya.Mohanty\\source\\repos\\Sapgithub\\CustomerInteractions\\OpenAIService\\OpenAIService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saphalya.Mohanty\\.nuget\\packages\\apache.arrow\\2.0.0\\apache.arrow.2.0.0.nupkg.sha512",
     "C:\\Users\\Saphalya.Mohanty\\.nuget\\packages\\azure.ai.openai\\1.0.0-beta.13\\azure.ai.openai.1.0.0-beta.13.nupkg.sha512",

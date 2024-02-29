@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Saphalya.Mohanty\\Source\\Repos\\Sapgithub\\CustomerInteractions\\OpenAIService\\OpenAIService.csproj": {}
+    "C:\\Users\\Saphalya.Mohanty\\source\\repos\\Sapgithub\\CustomerInteractions\\OpenAIService\\OpenAIService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Saphalya.Mohanty\\Source\\Repos\\Sapgithub\\CustomerInteractions\\OpenAIService\\OpenAIService.csproj": {
+    "C:\\Users\\Saphalya.Mohanty\\source\\repos\\Sapgithub\\CustomerInteractions\\OpenAIService\\OpenAIService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Saphalya.Mohanty\\Source\\Repos\\Sapgithub\\CustomerInteractions\\OpenAIService\\OpenAIService.csproj",
+        "projectUniqueName": "C:\\Users\\Saphalya.Mohanty\\source\\repos\\Sapgithub\\CustomerInteractions\\OpenAIService\\OpenAIService.csproj",
         "projectName": "OpenAIService",
-        "projectPath": "C:\\Users\\Saphalya.Mohanty\\Source\\Repos\\Sapgithub\\CustomerInteractions\\OpenAIService\\OpenAIService.csproj",
+        "projectPath": "C:\\Users\\Saphalya.Mohanty\\source\\repos\\Sapgithub\\CustomerInteractions\\OpenAIService\\OpenAIService.csproj",
         "packagesPath": "C:\\Users\\Saphalya.Mohanty\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Saphalya.Mohanty\\Source\\Repos\\Sapgithub\\CustomerInteractions\\OpenAIService\\obj\\",
         "projectStyle": "PackageReference",
