@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Saphalya.Mohanty\\Source\\Repos\\Sapgithub\\CustomerInteractions\\OpenAIService\\OpenAIService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Saphalya.Mohanty\\Source\\Repos\\Sapgithub\\CustomerInteractions\\OpenAIService\\OpenAIService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saphalya.Mohanty\\Source\\Repos\\Sapgithub\\CustomerInteractions\\OpenAIService\\OpenAIService.csproj",
+        "projectName": "OpenAIService",
+        "projectPath": "C:\\Users\\Saphalya.Mohanty\\Source\\Repos\\Sapgithub\\CustomerInteractions\\OpenAIService\\OpenAIService.csproj",
+        "packagesPath": "C:\\Users\\Saphalya.Mohanty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saphalya.Mohanty\\Source\\Repos\\Sapgithub\\CustomerInteractions\\OpenAIService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Saphalya.Mohanty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Azure.AI.OpenAI": {
+              "target": "Package",
+              "version": "[1.0.0-beta.13, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.11.0-beta.1, )"
+            },
+            "Azure.Messaging.EventHubs": {
+              "target": "Package",
+              "version": "[5.11.0, )"
+            },
+            "Microsoft.Spark": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
