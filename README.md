@@ -1,4 +1,4 @@
-### Hi there 👋
+### Generative AI project on customer activities on a digital contact centre platform using Fabric and Open AI 👋
 
 <!--
 **Sapgithub/Sapgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
